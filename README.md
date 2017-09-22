@@ -1,2 +1,2 @@
 # pratice
-this is a pratice
+this is a practice
